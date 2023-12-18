@@ -36,8 +36,9 @@
 
 ------
 ### Ответ
-[bash-script]()
-[keepalived.conf]()   
+[bash-script](https://github.com/kawahaweto/sflt/blob/main/disaster-recovery/check_nginx.sh)
+
+[keepalived.conf](https://github.com/kawahaweto/sflt/blob/main/disaster-recovery/keepalived.conf)   
 
    <details>
 
