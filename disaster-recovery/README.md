@@ -46,5 +46,5 @@
 ![text](https://github.com/kawahaweto/sflt/blob/main/disaster-recovery/t2_backupstate2.png)
 ![text](https://github.com/kawahaweto/sflt/blob/main/disaster-recovery/t2_backupstate.png)
 ![text](https://github.com/kawahaweto/sflt/blob/main/disaster-recovery/t2_failed_to_master.png)
-![text]
+![text](./t2_master_state.png)
 </details>
